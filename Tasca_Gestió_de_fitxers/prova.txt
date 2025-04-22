@@ -1,0 +1,10 @@
+4
+cardoso
+de
+hola
+jimenez
+maria
+paraules
+total
+úniques:
+Total de paraules úniques: 9

@@ -1,0 +1,7 @@
+cardoso
+consuelo
+hola
+jimenez
+maria
+y
+Total de paraules úniques: 6
