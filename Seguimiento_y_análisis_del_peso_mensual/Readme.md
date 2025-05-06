@@ -1,4 +1,4 @@
-Este programa de Java está diseñado para hacer un seguimiento del peso de una persona durante un período de 12 meses. 
+Este programa en lenguaje Java está diseñado para hacer un seguimiento del peso de una persona durante un período de 12 meses. 
 El programa solicita al usuario que ingrese el peso de cada mes, calcula la variación respecto al mes anterior y, al final, muestra las siguientes estadísticas.
 
   1. Peso máximo resgistrado.
