@@ -1,4 +1,4 @@
-package tasca_gestió_de_fitxers;
+package gestió_de_fitxers;
 
 //import java.io.File;
 //import java.io.IOException;
@@ -12,7 +12,7 @@ import java.io.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Tasca_Gestió_de_fitxers {
+public class Gestió_de_fitxers {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
