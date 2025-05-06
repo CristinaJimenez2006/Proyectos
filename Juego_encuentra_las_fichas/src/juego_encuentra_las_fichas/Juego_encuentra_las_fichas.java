@@ -12,6 +12,7 @@ public class Juego_encuentra_las_fichas {
         int intentosPosibles = 30;
         char[][] tablero = new char[tamaño][tamaño];
         
+        
         // Inicializar el tablero con espacios en blanco.
         for (int i = 0; i < tamaño; i++) {
             for (int j = 0; j < tamaño; j++) {
