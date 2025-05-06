@@ -1,1 +1,0 @@
-programació.pkg1rdam.Programació1rDAM
