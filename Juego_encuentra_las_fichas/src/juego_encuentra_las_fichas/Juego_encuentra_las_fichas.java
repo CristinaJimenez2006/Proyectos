@@ -11,8 +11,7 @@ public class Juego_encuentra_las_fichas {
         int fichas = 10;
         int intentosPosibles = 30;
         char[][] tablero = new char[tamaño][tamaño];
-        
-        
+
         // Inicializar el tablero con espacios en blanco.
         for (int i = 0; i < tamaño; i++) {
             for (int j = 0; j < tamaño; j++) {
@@ -31,7 +30,7 @@ public class Juego_encuentra_las_fichas {
                 tablero[x][y] = 'X';
             }
         }
-        
+
         // Comienza el juego.
         int intentos = 0;
         int aciertos = 0;
@@ -95,5 +94,4 @@ public class Juego_encuentra_las_fichas {
             System.out.println();
         }
     }
-
-    }
+}
